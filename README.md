@@ -13,6 +13,10 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
   
 ---
 
+
+### 
+
+  <p>
 <img 
     align="left" 
     alt="HTML"
@@ -56,10 +60,19 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="165" 
+    width="490"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
 />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="165" 
+      width="490"
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvf&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
