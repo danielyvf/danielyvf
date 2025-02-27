@@ -68,5 +68,6 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
       alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvf&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
       height="200" 
+      style="padding-left: 10px;" 
   />
 </p>
