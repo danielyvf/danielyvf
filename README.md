@@ -13,7 +13,6 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
   
 ---
 
-
 ### 
 
   <p>
@@ -55,7 +54,6 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
 <br>
 <br>
 
-###
 
 <div>
   <img 
