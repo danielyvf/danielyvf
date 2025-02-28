@@ -13,7 +13,7 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas, Numpy. Além de co
   
 ---
 
-### Tecnologias
+### Habilidades
 
 <img 
     align="left" 
