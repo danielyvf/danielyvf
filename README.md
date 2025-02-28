@@ -1,6 +1,6 @@
 ## Daniely Ventura 👋
 
-**`Acadêmica de Ciências de dados `**
+
 <br>
 
 
