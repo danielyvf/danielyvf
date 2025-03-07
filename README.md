@@ -47,6 +47,14 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas e Numpy. Além de c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
 
 <br/>
 <br/>
