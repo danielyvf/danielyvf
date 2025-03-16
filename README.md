@@ -65,13 +65,14 @@ Tenho focado em PostgreSQL, Python. Além de conhecimentos em HTML e CSS3.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvf&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
   <p>
   <picture>
   <source
+    height="180" 
     srcset="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
