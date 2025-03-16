@@ -5,10 +5,9 @@
 
 
 Recém-formada em Sistemas para Internet, atualmente no 3º semestre de Ciências de Dados. 
-Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas e Numpy. Além de conhecimentos em HTML e CSS3.
+Tenho focado em PostgreSQL, Python. Além de conhecimentos em HTML e CSS3.
 <p align="left">
   <a href="mailto:danielyvfl@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://linkedin.com/in/danielyvfl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
   
 ---
@@ -69,5 +68,20 @@ Tenho focado em PostgreSQL, Python e suas bibliotecas Pandas e Numpy. Além de c
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvf&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
+  <p>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true" />
+</picture>
   
-</p>
+
+
+
