@@ -5,7 +5,7 @@
 
 - 🔭 Estou focada atualmente em **Python**
 
-- 👯 Estou procurando colaborar e desenvolver meu conhecimentos **Python**
+- 👯 Estou procurando colaborar e desenvolver meu conhecimentos no back-end com **Python**
 
 - 📫 Me encontre aqui: **danielyvfl@gmail.com**
 
