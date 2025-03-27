@@ -1,88 +1,25 @@
-## Olá, meu nome é Daniely 👋
+<h1 align="center">Hi 👋, Sou a Daniely</h1>
+<h3 align="center">Desenvolvedora Jr</h3>
 
 
-<br>
 
+- 🔭 Estou focada atualmente em **Python**
 
-Recém-formada em Sistemas para Internet, atualmente no 3º semestre de Ciências de Dados. 
-Tenho focado em PostgreSQL, Python. Além de conhecimentos em HTML e CSS3.
+- 👯 Estou procurando colaborar e desenvolver meu conhecimentos **Python**
+
+- 📫 Me encontre aqui: **danielyvfl@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="mailto:danielyvfl@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/danielyvfl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-  
----
+<a href="https://linkedin.com/in/danielyvf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielyvf" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/danielyvf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielyvf" height="30" width="40" /></a>
+</p>
 
-### Habilidades
+<h3 align="left">Linguagens:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSql" 
-    title="PostgreSql"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&show_icons=true&locale=en&layout=compact" alt="danielyvf" /></p>
 
-<br/>
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&locale=en" alt="danielyvf" /></p>
 
----
-### 
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyvf&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-  <p>
-  <picture>
-  <source
-    height="180" 
-    srcset="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true" />
-</picture>
-  
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielyvf&label=Profile%20views&color=0e75b6&style=flat" alt="danielyvf" /> </p>
