@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, Sou a Daniely</h1>
-<h3 align="center">Desenvolvedora Jr</h3>
+<h3 align="center">Desenvolvedora </h3>
 
 
 
-- 🔭 Estou focada atualmente em **Python**
+<h2 align="center">- 🔭 Estou focada atualmente em Python</h2>
 
-- 👯 Estou procurando colaborar e desenvolver meu conhecimentos no back-end com **Python**
+<h2 align="center">- 👯 Estou procurando colaborar e desenvolver meu conhecimentos no back-end</h2>
 
-- 📫 Me encontre aqui: **danielyvfl@gmail.com**
+<h2 align="center">- 📫 Me encontre aqui: danielyvfl@gmail.com</h2>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
