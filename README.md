@@ -18,10 +18,21 @@ Comprometida com aprendizado contínuo e melhores práticas de desenvolvimento.*
 
 ###
 ---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielyvf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=danielyvf&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=false" 
+    height="150" 
+    alt="Gráfico de atividades do GitHub" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&locale=pt-br" 
+    height="150" 
+    alt="Gráfico de linguagens mais usadas" 
+  />
 </div>
+
+
 
 
 ---
