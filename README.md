@@ -1,9 +1,12 @@
 <h1 align="left">Hi!</h1>
 
 ###
-- Formação em Sistemas para Internet / Cursando o 5º semestre de Ciências de Dados com interesse em Engenharia de dados.
+- Cursando 5º semestre de Ciências de Dados — Aprendizado sobre Engenharia de Dados, modelagem de dados e visualização.
+- Graduação em Sistemas para Internet — Formação focada em desenvolvimento web e tecnologias front-end.
 - Buscando expandir conhecimentos e colaborar em projetos desafiadores.
 ###
+
+
 
 
 
