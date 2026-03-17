@@ -4,4 +4,4 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielyvf" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielyvf" /></p>
