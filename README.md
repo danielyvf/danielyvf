@@ -5,5 +5,5 @@
 <h3 align="left">Tecnologias:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielyvf&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielyvf" />
+  <img src="https://metrics.lecoq.io/danielyvf?base=languages&base.languages.units=percent&base.languages.skipped=html,css&theme=dark" alt="Linguagens" />
 </div>
