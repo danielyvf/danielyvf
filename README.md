@@ -1,7 +1,7 @@
 
 * **Desenvolvedora Frontend Voluntária** na AgileRiseUp
 * **Graduada** em Tecnologia em Sistemas para Internet
-* **Graduanda (5º Semestre)** em Tecnologia em Ciência de Dados
+* **Graduanda (6º Semestre)** em Tecnologia em Ciência de Dados
 
 ---
 
